@@ -6,10 +6,10 @@ This project applies various image processing filters to images using MATLAB. It
 * **Features**
 Upload Image: Users can upload an image in various formats (e.g., JPEG, PNG).
 Apply Filters:
-Grayscale
-Negative
-Blur
-Sharpen
+Grayscale,
+Negative,
+Blur,
+Sharpen,
 Edge Detection
 Save Processed Image: Users can save the filtered image to their local system.
 
