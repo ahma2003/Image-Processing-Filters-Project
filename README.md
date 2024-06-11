@@ -12,7 +12,6 @@ Blur,
 Sharpen,
 Edge Detection
 
-  Save Processed Image: Users can save the filtered image to their local system.
 
 * **Technologies Used**
 MATLAB
