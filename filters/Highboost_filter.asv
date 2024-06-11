@@ -1,0 +1,1 @@
+function [filteredImage] = Highboost_filter(img, filterSize)
